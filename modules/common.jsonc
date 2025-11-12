@@ -138,7 +138,7 @@
 		"interval": 1
 	},
 	"temperature#cpu": {
-		"thermal-zone": 3,
+		"thermal-zone": 5,
 		"warning-threshold": 65,
 		"critical-threshold": 85,
 		"format": " {temperatureC}°C",
